@@ -1,0 +1,88 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('../media/pattern-randomized.svg');
+}
+
+h1 {
+    color: rgb(56, 3, 121);
+    text-align: center;
+    font-size: 50px;
+}
+
+#para1 {
+    text-align: center;
+    font-size: 30px;
+    text-align: left;
+}
+
+#para2 {
+    text-align: center;
+    font-size: 30px;
+    text-align: left;
+}
+
+#para3 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para4 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para5 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para6 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para7 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para8 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para9 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para10 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para12 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para13 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para14 {
+    text-align: left;
+    font-size: 30px;
+}
+
+#para15 {
+    text-align: left;
+    font-size: 30px;
+}
+ol li{
+    font-size: 30px;
+}
+ul li{
+    font-size: 30px;
+}
